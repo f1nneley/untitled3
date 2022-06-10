@@ -1,0 +1,6 @@
+name: Invclear
+version: '${project.version}'
+main: me.invclear.invclear.Invclear
+api-version: 1.15
+authors: [ a ]
+description: a
